@@ -1,0 +1,12 @@
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\bin\Debug\MOD003263 Software Engineering.exe.config
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\bin\Debug\MOD003263 Software Engineering.exe
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\bin\Debug\MOD003263 Software Engineering.pdb
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\obj\Debug\MOD003263 Software Engineering.csprojResolveAssemblyReference.cache
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\obj\Debug\MOD003263_Software_Engineering.Form1.resources
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\obj\Debug\MOD003263_Software_Engineering.Properties.Resources.resources
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\obj\Debug\MOD003263 Software Engineering.csproj.GenerateResource.Cache
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\obj\Debug\MOD003263 Software Engineering.csproj.CoreCompileInputs.cache
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\obj\Debug\MOD003263 Software Engineering.exe
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\obj\Debug\MOD003263 Software Engineering.pdb
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\bin\Debug\MOD003263SEDB.mdf
+D:\Documents\C# Projects\MOD003263 Software Engineering\MOD003263 Software Engineering\MOD003263 Software Engineering\bin\Debug\MOD003263SEDB_log.ldf
